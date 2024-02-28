@@ -1,21 +1,21 @@
-<center><h1> Branches do projeto</h1></center>
+# Branches do projeto
 
-# Operacoes_aritmeticas:
+<h3>Operacoes_aritmeticas:</h3>
 
-<b>Exercício 1</b>c
+<b>Exercício 1</b><br>
 ![Exercicio 1](main_images/aritmeticas/ex1.png)
-# Exercícios 2 e 3
+<br><b>Exercícios 2 e 3</b><br>
 ![Exercicio 2 e 3](main_images/aritmeticas/ex2_ex3.png)
-# Exercício 4
+<br><b>Exercício 4</b><br>
 ![Exercicio 4](main_images/aritmeticas/ex4.png)
 
-# Laços_condicionais:
+<h3>Lacos_condicionais:</h3>
 
-# Exercício 1
+<br><b>Exercício 1</b><br>
 ![ex1](main_images/lacos_condicionais/ex1.png)
-# Exercício 2
+<br><b>Exercício 2</b><br>
 ![ex2](main_images/lacos_condicionais/ex2.png)
-# Exercício 5
+<br><b>Exercício 5</b><br>
 ![ex3](main_images/lacos_condicionais/ex5.png)
-# Exercício 7
+<br><b>Exercício 7</b><br>
 ![ex4](main_images/lacos_condicionais/ex7.png)
