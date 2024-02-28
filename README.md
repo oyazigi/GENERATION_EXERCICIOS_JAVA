@@ -1,4 +1,4 @@
-#Laços_condicionais:
+# Laços_condicionais:
 
 # Exercício 1
 ![ex1](ex1.png)
