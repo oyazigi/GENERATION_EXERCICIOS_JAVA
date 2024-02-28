@@ -12,10 +12,10 @@
 # Laços_condicionais:
 
 # Exercício 1
-![ex1](ex1.png)
+![ex1](main_images/lacos_condicionais/ex1.png)
 # Exercício 2
-![ex2](ex2.png)
+![ex2](main_images/lacos_condicionais/ex2.png)
 # Exercício 5
-![ex3](ex5.png)
+![ex3](main_images/lacos_condicionais/ex5.png)
 # Exercício 7
-![ex4](ex7.png)
+![ex4](main_images/lacos_condicionais/ex7.png)
