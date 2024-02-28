@@ -2,7 +2,7 @@
 
 # Operacoes_aritmeticas:
 
-# Exercício 1
+<b>Exercício 1</b>c
 ![Exercicio 1](main_images/aritmeticas/ex1.png)
 # Exercícios 2 e 3
 ![Exercicio 2 e 3](main_images/aritmeticas/ex2_ex3.png)
