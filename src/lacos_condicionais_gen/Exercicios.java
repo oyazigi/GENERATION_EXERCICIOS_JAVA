@@ -29,21 +29,40 @@ public class Exercicios {
 		System.out.printf("O Número digitado é %s e %s", negatividade, paridade);
 	}
 	public static void segunda_5() {
-		int codigo, quant;
-		Object[][] lista = {
-				{"Cachorro Quente", 10},
-				{"X-Salada", 15},
-				{"X-Bacon", 18},
-				{"Bauru", 12},
-				{"Refrigerante", 8},
-				{"Suco de laranja", 13}
-				};
+		int codigo=0, quant=0, preco=0;
+		String produto="";
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Código do produto: ");
-		codigo = scan.nextInt() - 1;
+		codigo = scan.nextInt();
+		switch(codigo) {
+		case 1:
+			produto = "Cachorro quente";
+			preco = 10;
+			break;
+		case 2:
+			produto = "X-Salada";
+			preco = 15;
+			break;
+		case 3:
+			produto = "X-Bacon";
+			preco = 18;
+			break;
+		case 4:
+			produto = "Bauru";
+			preco = 12;
+			break;
+		case 5:
+			produto = "Refrigerante";
+			preco = 8;
+			break;
+		case 6:
+			produto = "Suco de laranja";
+			preco = 13;
+			break;
+		}
 		System.out.println("Quantidade: ");
 		quant = scan.nextInt();
-		System.out.printf("O Produto é: %s\nO valor total foi de: %d", lista[codigo][0], (int) lista[codigo][1] * quant);
+		System.out.printf("O Produto é: %s\nO valor total foi de: %d", produto, preco * quant);
 	}
 	public static void segunda_7() {
 		float n1,n2;
@@ -55,11 +74,22 @@ public class Exercicios {
 		n2 = scan.nextFloat();
 		System.out.println("Operação: ");
 		op = scan.nextInt();
-		if(op == 1)System.out.printf("%.2f + %.2f = %.2f", n1, n2, n1+n2);
-		if(op == 2)System.out.printf("%.2f - %.2f = %.2f", n1, n2, n1-n2);
-		if(op == 3)System.out.printf("%.2f * %.2f = %.2f", n1, n2, n1*n2);
-		if(op == 4)System.out.printf("%.2f / %.2f = %.2f", n1, n2, n1/n2);
-		if(op < 1 || op > 4)System.out.println("Operação inválida!");
+		switch(op) {
+		case 1:
+			System.out.printf("%.2f + %.2f = %.2f", n1, n2, n1+n2);
+			break;
+		case 2:
+			System.out.printf("%.2f - %.2f = %.2f", n1, n2, n1-n2);
+			break;
+		case 3:
+			System.out.printf("%.2f * %.2f = %.2f", n1, n2, n1*n2);
+			break;
+		case 4:
+			System.out.printf("%.2f / %.2f = %.2f", n1, n2, n1/n2);
+			break;
+		default:
+			System.out.println("Opção inválida!");
+		}
 		
 	}
 	public static void primeira() {
