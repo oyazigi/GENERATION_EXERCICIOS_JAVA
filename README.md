@@ -1,6 +1,4 @@
-# Branches do projeto
-
-<h3>Operacoes_aritmeticas</h3>
-<h3>Lacos_condicionais</h3>
-<h3>Lacos_de_repeticao</h3>
-
+#Exercício 1
+![Exercicio 1](ex1.png)
+#Exercício 3
+![Exercicio 3](ex3.png)
