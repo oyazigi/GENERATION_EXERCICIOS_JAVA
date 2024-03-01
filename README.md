@@ -1,7 +1,4 @@
-# Branches do projeto
-
-### Operacoes_aritmeticas
-### Lacos_condicionais
-### Lacos_de_repeticao
-### Vetor_matriz
-
+# Exercício 1
+![Exercício1](ex1.png)
+# Exercício 3
+![Exercício3](ex3.png)
